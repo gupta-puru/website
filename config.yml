@@ -1,5 +1,5 @@
 baseURL: "https://gupta-puru.github.com/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+title: Puru Gupta
 paginate: 20
 theme: PaperMod
 
@@ -11,30 +11,30 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
+        - name: Curriculum Vitae
           url: books/
           weight: 5 
-        - name: Papers
+        - name: Research
           url: papers/
           weight: 2
-        - name: Courses
+        - name: Teaching
           url: courses/
           weight: 3
-        - name: Data
+        - name: Code
           url: data/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        - name: Warwick
+          url: https://warwick.ac.uk/fac/soc/economics/staff/pgupta/
           weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "I am a PhD candidate at the Department of Economics, University of Warwick, affiliated with the Stochastic Finance research group."
+    author: Puru Gupta
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -54,32 +54,32 @@ params:
     profileMode:
           enabled: true
           title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          subtitle: "I am a PhD candidate at the Department of Economics, University of Warwick, affiliated with the Stochastic Finance research group. My current research focuses on endogenous liquidity frictions in financial markets dominated by large institutional investors or whales and their import for optimal risk management and asset pricing. I also explore optimal supply chain risk management through the use of derivative securities."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageTitle: Puru Gupta
           buttons:
-            - name: Papers
+            - name: Research
               url: papers/
-            - name: Courses
+            - name: Teaching
               url: courses/
-            - name: Data
+            - name: Codes
               url: data/
-            - name: Books
+            - name: CV
               url: books/
             - name: Tags
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Warwick
+              url: https://warwick.ac.uk/fac/soc/economics/staff/pgupta/
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
+          url: mailto:puru.gupta.1@warwick.ac.uk
         - name: Zoom
           url: https://www.zoom.us/my/igelfeld
         - name: Location
@@ -87,11 +87,11 @@ params:
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=ZwfVefEAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://github.com/gupta-puru
+        - name: Linkedin
+          url: https://www.linkedin.com/in/puru-gupta-b873008a/
         - name: YouTube
           url: https://www.youtube.com/@alexandermccallsmithoffici9000
         - name: Twitter
@@ -103,7 +103,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Puru Gupta"
       icon: favicon.ico
       iconHeight: 18
 
