@@ -55,9 +55,9 @@ params:
           enabled: true
           title: Professor Dr von Igelfeld
           subtitle: "I am a PhD candidate at the Department of Economics, University of Warwick, affiliated with the Stochastic Finance research group. My current research focuses on endogenous liquidity frictions in financial markets dominated by large institutional investors or whales and their import for optimal risk management and asset pricing. I also explore optimal supply chain risk management through the use of derivative securities."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          imageUrl: "Puru.jpeg"
+          imageWidth: 300
+          imageHeight: 300
           imageTitle: Puru Gupta
           buttons:
             - name: Research
