@@ -28,13 +28,13 @@ menu:
           weight: 6
 
 params:
-    description: "I am a PhD candidate at the Department of Economics, University of Warwick, affiliated with the Stochastic Finance research group."
+    description: "I am a PhD candidate in Economics, at the University of Warwick, affiliated with the Stochastic Finance research group."
     author: Puru Gupta
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: dark
-    hideFooter: false
-    disableThemeToggle: false
+    hideFooter: true
+    disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -54,7 +54,8 @@ params:
     profileMode:
           enabled: true
           title: Puru Gupta
-          subtitle: "I am a PhD candidate at the Department of Economics, University of Warwick, affiliated with the Stochastic Finance research group. My current research focuses on endogenous liquidity frictions in financial markets dominated by large institutional investors or whales and their import for optimal risk management and asset pricing. I also explore optimal supply chain risk management through the use of derivative securities."
+          subtitle: "I am a PhD candidate in Economics, at the University of Warwick, affiliated with the Stochastic Finance research group. My research focuses on the effect of endogenous liquidity frictions, in financial markets dominated by large institutional investors, on optimal risk management and derivative pricing.
+          **In 2024/2025, I will be on the job market.**"
           imageUrl: "Puru.jpeg"
           imageWidth: 180
           imageHeight: 210
@@ -64,39 +65,25 @@ params:
               url: papers/
             - name: Teaching
               url: courses/
-            - name: Codes
-              url: data/
+            - name: Job Market Paper
+              url: 
             - name: CV
               url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
             - name: Warwick
               url: https://warwick.ac.uk/fac/soc/economics/staff/pgupta/
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
+        - name: Linkedin
+          url: https://www.linkedin.com/in/puru-gupta-b873008a/
         - name: Email
           url: mailto:puru.gupta.1@warwick.ac.uk
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+        - name: CV
+          url: cv.pdf
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=ZwfVefEAAAAJ&hl=en
         - name: GitHub
           url: https://github.com/gupta-puru
-        - name: Linkedin
-          url: https://www.linkedin.com/in/puru-gupta-b873008a/
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
-
+       
     assets:
         disableScrollBarStyle: true
     cover:
