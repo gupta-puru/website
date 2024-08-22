@@ -55,7 +55,7 @@ params:
           enabled: true
           title: Puru Gupta
           subtitle: "I am a PhD candidate in Economics, at the University of Warwick, affiliated with the Stochastic Finance research group. My research focuses on the effect of endogenous liquidity frictions, in financial markets dominated by large institutional investors, on optimal risk management and derivative pricing.
-          **In 2024/2025, I will be on the job market.**"
+          \n **In 2024/2025, I will be on the job market.**"
           imageUrl: "Puru.jpeg"
           imageWidth: 180
           imageHeight: 210
