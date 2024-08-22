@@ -20,9 +20,6 @@ menu:
         - name: Teaching
           url: courses/
           weight: 3
-        - name: Code
-          url: data/
-          weight: 4 
         - name: Warwick
           url: https://warwick.ac.uk/fac/soc/economics/staff/pgupta/
           weight: 6
@@ -66,7 +63,7 @@ params:
               url: courses/
             - name: Job Market Paper
               url: 
-            - name: CV
+            - name: Curriculum Vitae
               url: books/
             - name: Warwick
               url: https://warwick.ac.uk/fac/soc/economics/staff/pgupta/
