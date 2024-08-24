@@ -1,10 +1,10 @@
 ---
 title: "Portfolio Choice In Dynamic Thin Markets: Merton Meets Cournot" 
-date: 2023-09-27
-lastmod: 2023-09-23
+date: 
+lastmod:
 tags: []
 author: [" "]
-summary: "<ins>Working Paper (Revised Draft Under Preparation)</ins>"
+summary: "<u>Working Paper (Revised Draft Under Preparation)</u>"
 editPost:
     Text: Co-Author
     URL: "https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/jacka/"
