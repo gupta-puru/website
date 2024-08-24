@@ -86,7 +86,7 @@ params:
     label:
       text: "Puru Gupta"
       icon: Arms_of_the_University_of_Warwick.png
-      iconHeight: 18
+      iconHeight: 20
 
 markup:
     goldmark:
