@@ -1,13 +1,13 @@
 ---
+
 title: "Portfolio Choice In Dynamic Thin Markets: Merton Meets Cournot" 
-date: 1988-04-04
+date: 1988-08-04
 lastmod:
 tags: []
 author: [" "]
-summary: " Working Paper, Co-Author: [Saul D. Jacka](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/jacka/)"
+summary: " Working Paper, with Saul D. Jacka"
 editPost:
-    Text: (Revised Draft Under Preparation)
-
+   
 ---
 
 ##### Download
