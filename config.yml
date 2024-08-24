@@ -64,7 +64,7 @@ params:
             - name: Job Market Paper
               url: 
             - name: Curriculum Vitae
-              url: books/
+              url: Puru-CV.pdf
             - name: Warwick
               url: https://warwick.ac.uk/fac/soc/economics/staff/pgupta/
 
