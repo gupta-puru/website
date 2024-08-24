@@ -28,7 +28,7 @@ We examine preference based derivative prices in an extended version of the cano
 + [XXXII European Workshop on Economic Theory](https://sites.google.com/view/ewet2024/ewet-2024/program/thu-jun-20-am)
 + [Royal Statistical Society International Conference (forthcoming)](https://rss.org.uk/training-events/conference-2024/programme-and-speakers/)
 
-##### Accepted But Withdrawn Owing To Personal Circumstances
+##### Withdrawn Due To Personal Issues
 
 + [XII World Congress of the Bachelier Finance Society](https://eventos.fgv.br/bachelier-2024/program)
 + [Lancaster–Manchester–Warwick Joint PhD Workshop on Quantitative Finance and Financial Technology](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/gillmore/phdworkshop2024/)
