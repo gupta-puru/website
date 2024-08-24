@@ -7,6 +7,8 @@ author: [" "]
 summary: " **Job Market Paper** "
 editPost:
 
+---
+
 ##### Abstract
 
 We examine preference based derivative prices in an extended version of the canonical Black–Scholes model, in which risk preferences of investors are represented by CARA utility functions and market incompleteness is generated on account of non–Walrasian trading by large investors whose trading influences the underlying asset price. In a two–period motivating example with non–Walrasian trading we show that the payoff space and no–arbitrage pricing functional are nonlinear which impedes arbitrage pricing. Under certain regularity assumptions we characterize a manipulation free pricing rule as nonlinear expectation of the derivative security payoff under the Markov–Nash pricing measure in a non–zero sum singular stochastic differential game framework. We show that the risk–neutral indifference price coincides with the Black–Scholes price and derive a liquidity adjusted Black–Scholes equation which facilitates analytical as well as numerical computation of the price of European style options.
