@@ -12,7 +12,7 @@ taxonomies:
 menu:
     main:
         - name: Curriculum Vitae
-          url: books/
+          url: Puru-CV.pdf
           weight: 5 
         - name: Research
           url: papers/
