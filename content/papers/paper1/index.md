@@ -1,7 +1,7 @@
 ---
-title: "Martingale Schrödinger Bridge For Newsvendors" 
-date: 1988-4-2
-lastmod: 1988-4-2
+title: "(Martingale) Schrödinger Bridge For Newsvendors" 
+date: 
+lastmod: 
 tags: []
 author: [" "]
 description: " " 
