@@ -13,7 +13,7 @@ menu:
     main:
         
         - name: Research
-          url: papers/
+          url: Research/
           weight: 2
         - name: Teaching
           url: courses/
@@ -38,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["books","courses","Research","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -56,7 +56,7 @@ params:
           imageTitle: Puru Gupta
           buttons:
             - name: Research
-              url: papers/
+              url: Research/
             - name: Teaching
               url: courses/
             - name: Job Market Paper
