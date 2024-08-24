@@ -1,5 +1,5 @@
 ---
-title: "(Martingale) Schrödinger Bridge For Newsvendors" 
+title: "Martingale Schrödinger Bridge For Newsvendors" 
 date: 
 lastmod: 
 tags: []
