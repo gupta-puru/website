@@ -2,7 +2,7 @@
 
 title: "Portfolio Choice In Dynamic Thin Markets: Merton Meets Cournot" 
 date:
-lastmod:
+lastmod: 2023/09/17
 tags: []
 author: [" "]
 summary: " Working Paper, with Saul D. Jacka"
