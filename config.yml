@@ -1,4 +1,4 @@
-baseURL: "https://gupta-puru.github.io/" 
+baseURL: "https://gupta-puru.github.com/hugo-website" 
 title: Puru Gupta
 paginate: 20
 theme: PaperMod
@@ -11,9 +11,7 @@ taxonomies:
 
 menu:
     main:
-        - name: Curriculum Vitae
-          url: Puru-CV.pdf
-          weight: 5 
+        
         - name: Research
           url: papers/
           weight: 2
