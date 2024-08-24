@@ -1,4 +1,4 @@
-baseURL: "https://gupta-puru.github.io/hugo-website
+baseURL: "https://gupta-puru.github.com/hugo-website/" 
 title: Puru Gupta
 paginate: 20
 theme: PaperMod
@@ -11,6 +11,9 @@ taxonomies:
 
 menu:
     main:
+        - name: Curriculum Vitae
+          url: books/
+          weight: 5 
         - name: Research
           url: papers/
           weight: 2
@@ -37,7 +40,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["courses","papers","data"]
+    MainSections: ["books","courses","papers","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -61,7 +64,7 @@ params:
             - name: Job Market Paper
               url: 
             - name: Curriculum Vitae
-              url: 
+              url: books/
             - name: Warwick
               url: https://warwick.ac.uk/fac/soc/economics/staff/pgupta/
 
@@ -71,7 +74,7 @@ params:
         - name: Email
           url: mailto:puru.gupta.1@warwick.ac.uk
         - name: CV
-          url: Puru-CV.pdf
+          url: cv.pdf
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=ZwfVefEAAAAJ&hl=en
         - name: GitHub
