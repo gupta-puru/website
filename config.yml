@@ -85,7 +85,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Puru Gupta"
-      icon: apple-touch-icon.png
+      icon: favicon.ico
       iconHeight: 18
 
 markup:
