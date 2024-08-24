@@ -60,7 +60,7 @@ params:
             - name: Teaching
               url: courses/
             - name: Job Market Paper
-              url: 
+              url: papers/paper3
             - name: Curriculum Vitae
               url: Puru-CV.pdf
             - name: Warwick
@@ -85,7 +85,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Puru Gupta"
-      icon: favicon.ico
+      icon: favicon-32x32.png
       iconHeight: 18
 
 markup:
