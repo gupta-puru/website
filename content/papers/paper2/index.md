@@ -1,28 +1,11 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-lastmod: 2024-07-12
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
+title: "Martingale Schrödinger Bridge For Newsvendors" 
+date: 
+lastmod: 
+tags: []
+author: [" "]
 description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
-cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
-    relative: false
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
-
----
-
----
-
-##### Download
-
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk)
+summary: "Work In Progress" 
 
 ---
 
@@ -34,5 +17,5 @@ This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor s
 
 ##### Contributed Presentations
 
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
++ [Annual Conference of Operational Research Society (forthcoming)](https://www.theorsociety.com/ORS/ORS/Events/2024/OR66/OR66.aspx?hkey=44a6f6b2-e40d-43d1-80f3-ee31bca1456b)
+
