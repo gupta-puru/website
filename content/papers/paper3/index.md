@@ -1,7 +1,7 @@
 ---
 title: "Derivative Pricing With Strategic Competition For Liquidity" 
 date: 
-lastmod:
+lastmod: 2024-08-17
 tags: []
 author: [" "]
 summary: " **Job Market Paper** "
