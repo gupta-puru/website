@@ -37,7 +37,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["courses","papers","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -61,7 +61,7 @@ params:
             - name: Job Market Paper
               url: 
             - name: Curriculum Vitae
-              url: Puru-CV.pdf
+              url: 
             - name: Warwick
               url: https://warwick.ac.uk/fac/soc/economics/staff/pgupta/
 
