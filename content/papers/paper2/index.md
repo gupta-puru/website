@@ -32,31 +32,7 @@ This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor s
 
 ---
 
-##### Figure 2: Dimensions of a sausage dog
-
-![](paper2.png)
-
----
-
-##### Citation
-
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
-
-```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
-```
-
----
-
-##### Related material
+##### Contributed Presentations
 
 + [Presentation slides](presentation2.pdf)
 + [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
