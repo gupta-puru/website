@@ -1,6 +1,6 @@
 ---
 title: "Derivative Pricing With Strategic Competition For Liquidity" 
-date: 31/08/2024
+date: 2024-08-31
 lastmod:
 tags: []
 author: [" "]
