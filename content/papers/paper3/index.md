@@ -17,7 +17,7 @@ We examine preference based derivative prices in an extended version of the cano
 
 ##### Download
 
-+ [Draft Coming Soon]()
++ Draft Coming Soon
 
 ---
 
@@ -27,4 +27,9 @@ We examine preference based derivative prices in an extended version of the cano
 + [VI QMUL Economics and Finance Workshop](https://www.qmul.ac.uk/sef/events/conferences/items/call-for-papers---6th-qmul-economics-and-finance-workshop-for-phd--post-doctoral-students.html)
 + [XXXII European Workshop on Economic Theory](https://sites.google.com/view/ewet2024/ewet-2024/program/thu-jun-20-am)
 + [Royal Statistical Society International Conference (forthcoming)](https://rss.org.uk/training-events/conference-2024/programme-and-speakers/)
+
+##### Accepted But Withdrawn Owing To Personal Circumstances
+
++ [XII World Congress of the Bachelier Finance Society](https://eventos.fgv.br/bachelier-2024/program)
++ [Lancaster–Manchester–Warwick Joint PhD Workshop on Quantitative Finance and Financial Technology](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/gillmore/phdworkshop2024/)
 
