@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Choice In Dynamic Thin Markets: Merton Meets Cournot" 
-date: 2023-09-17
+date: 1997-09-17
 lastmod:
 tags: []
 author: [" "]
