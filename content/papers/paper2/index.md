@@ -1,7 +1,7 @@
 ---
 
 title: "Portfolio Choice In Dynamic Thin Markets: Merton Meets Cournot" 
-date: 1988-08-04
+date:
 lastmod:
 tags: []
 author: [" "]
