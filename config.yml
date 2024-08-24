@@ -74,7 +74,7 @@ params:
         - name: Email
           url: mailto:puru.gupta.1@warwick.ac.uk
         - name: CV
-          url: cv.pdf
+          url: Puru-CV.pdf
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=ZwfVefEAAAAJ&hl=en
         - name: GitHub
