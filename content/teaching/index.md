@@ -1,3 +1,16 @@
+---
+
+title: "Teaching" 
+date: 
+tags: 
+author: 
+description: 
+summary: 
+
+showToc: true
+
+---
+
 I have served as a graduate teaching assistant for the following modules at the University of Warwick, where my duties primarily involved conducting problem solving sessions.
 
 ## Topics in Financial Economics: Theories and International Finance
