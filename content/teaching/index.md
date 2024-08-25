@@ -1,13 +1,13 @@
 ---
 
-title: "Teaching" 
+title: 
 date: 
 tags: 
-author: 
+author:
 description: 
 summary: 
 
-showToc: true
+showToc: false
 
 ---
 
