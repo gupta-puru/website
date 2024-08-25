@@ -3,7 +3,7 @@
 title: 
 date: 
 tags: 
-author:
+author: [" "]
 description: 
 summary: 
 
