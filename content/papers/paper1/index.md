@@ -4,7 +4,7 @@ date: 2023/9/7
 lastmod: 2023/9/7
 tags: []
 author: [" "]
-summary: " Working Paper, with Saul D. Jacka"
+summary: " Preprint, with Saul D. Jacka"
 editPost:
    
 ---
@@ -13,6 +13,7 @@ editPost:
 
 + [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4585880)
 + [Arxiv](https://arxiv.org/abs/2309.16047)
++ Revised Draft Under Preparation
 
 ---
 
