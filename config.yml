@@ -58,7 +58,7 @@ params:
             - name: Research
               url: papers/
             - name: Teaching
-              url: courses/
+              url: teaching/
             - name: Job Market Paper
               url: papers/paper3
             - name: Curriculum Vitae
