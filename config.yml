@@ -16,7 +16,7 @@ menu:
           url: papers/
           weight: 2
         - name: Teaching
-          url: courses/
+          url: teaching/
           weight: 3
         - name: Warwick
           url: https://warwick.ac.uk/fac/soc/economics/staff/pgupta/
