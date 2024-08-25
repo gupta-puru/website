@@ -1,4 +1,4 @@
-baseURL: "https://gupta-puru.github.io/hugo-website" 
+baseURL: "https://gupta-puru.github.io/website" 
 title: Puru Gupta
 paginate: 20
 theme: PaperMod
