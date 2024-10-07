@@ -1,6 +1,5 @@
 baseURL: "https://gupta-puru.github.io/website" 
 title: Puru Gupta
-<meta name="google-site-verification" content="ra8q7wML56Z00CbNwfEe3dNrG9cS_sX-pXB0UhvVbrA" />
 paginate: 20
 theme: PaperMod
 
@@ -25,6 +24,7 @@ menu:
 params:
     description: "I am a PhD candidate in Economics, at the University of Warwick, affiliated with the Stochastic Finance research group."
     author: Puru Gupta
+    <meta name="google-site-verification" content="ra8q7wML56Z00CbNwfEe3dNrG9cS_sX-pXB0UhvVbrA" />
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: dark
