@@ -17,7 +17,9 @@ We consider a financial market with two large investors whose trades affect pric
 
 ##### Download
 
-+[Draft](url: Puru-JMP.pdf)
+ buttons:
+            - name: Draft
+              url: Puru-JMP.pdf
 
 ---
 
