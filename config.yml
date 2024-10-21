@@ -59,7 +59,7 @@ params:
             - name: Teaching
               url: teaching/
             - name: Job Market Paper
-              url: papers/paper3
+              url: Puru-JMP.pdf
             - name: Curriculum Vitae
               url: Puru-CV.pdf
             - name: Warwick
