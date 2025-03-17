@@ -21,6 +21,14 @@ Year 3 elective undergraduate module in financial economics offered by the Depar
 + [Module Webpage](https://warwick.ac.uk/fac/soc/economics/current/modules/ec333/)
 + Module Leader [Professor Ilan Kremer](https://warwick.ac.uk/fac/soc/economics/staff/ikremer)
 
+## Macroeconomics 2
+
+Year 2 core undergraduate module in macroeconomics offered by the Department of Economics, University of Warwick.
+
++ Spring Term - 2024/2025
++ [Module Webpage](https://warwick.ac.uk/fac/soc/economics/current/modules/ec201/)
++ Module Leader [Professor Roberto Pancrazi](https://warwick.ac.uk/fac/soc/economics/staff/rpancrazi/)
+
 ## Strategic Games
 
 Year 3 elective undergraduate module in game theory offered by the Behavioural Science Group, Warwick Business School.
@@ -44,14 +52,6 @@ Year 2 elective undergraduate module in business economics offered by the Depart
 + Autumn Term - 2024/25 (Lead Tutor)
 + [Module Webpage](https://warwick.ac.uk/fac/soc/economics/current/modules/ec229/)
 + Module Leader [Professor Ilan Kremer](https://warwick.ac.uk/fac/soc/economics/staff/ikremer)
-
-## Macroeconomics 2
-
-Year 2 core undergraduate module in macroeconomics offered by the Department of Economics, University of Warwick.
-
-+ Spring Term - 2024/2025
-+ [Module Webpage](https://warwick.ac.uk/fac/soc/economics/current/modules/ec201/)
-+ Module Leader [Professor Roberto Pancrazi](https://warwick.ac.uk/fac/soc/economics/staff/rpancrazi/)
 
 ## Topics in Financial Economics: Corporate Finance and Markets
 
