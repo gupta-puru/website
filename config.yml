@@ -48,8 +48,8 @@ params:
     profileMode:
           enabled: true
           title: Puru Gupta
-          subtitle: "I am a PhD candidate in Economics, at the University of Warwick, where I am affiliated with the **Stochastic Finance** research group. My research focuses on optimal risk management and derivative pricing in financial markets dominated by large institutional investors. **I will be on the job market in 2024/2025.**"
-          imageUrl: "profile.jpg"
+          subtitle: "I am a PhD candidate in Economics at the University of Warwick, where I am affiliated with the **Stochastic Finance** research group. My research focuses on optimal risk management in financial markets dominated by large institutional investors."
+          imageUrl: "Puru.jpg"
           imageWidth: 180    
           imageHeight: 210
           imageTitle: Puru Gupta
