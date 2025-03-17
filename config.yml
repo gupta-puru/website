@@ -84,7 +84,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Puru Gupta"
-      icon: Arms_of_the_University_of_Warwick.png
+      icon: Logo.png
       iconHeight: 18
 
 markup:
