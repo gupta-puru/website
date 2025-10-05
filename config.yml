@@ -17,8 +17,8 @@ menu:
         - name: Teaching
           url: teaching/
           weight: 3
-        - name: Warwick
-          url: https://warwick.ac.uk/fac/soc/economics/staff/pgupta/
+        - name: Christ's, Cambridge
+          url: https://www.christs.cam.ac.uk/college/people/fellows/dr-puru-gupta
           weight: 6
 
 params:
@@ -48,7 +48,7 @@ params:
     profileMode:
           enabled: true
           title: Puru Gupta
-          subtitle: "I am a PhD candidate in Economics at the University of Warwick, where I am affiliated with the **Stochastic Finance** research group. My research focuses on optimal risk management in financial markets dominated by large institutional investors."
+          subtitle: "I am a postdoctoral fellow in Economics at Christ's College, University of Cambridge, where I concurrently serve as college lecturer in Macroeconomics. My current research focuses on the role of investor demand in the pricing of financial instruments, and the influence of martingale measures on inflation dynamics under different monetary policy regimes.
           imageUrl: "Puru.jpeg"
           imageWidth: 180    
           imageHeight: 210
@@ -58,18 +58,16 @@ params:
               url: papers/
             - name: Teaching
               url: teaching/
-            - name: Job Market Paper
-              url: Puru-JMP.pdf
             - name: Curriculum Vitae
               url: Puru-CV.pdf
-            - name: Warwick
-              url: https://warwick.ac.uk/fac/soc/economics/staff/pgupta/
+            - name: Christ's, Cambridge
+              url: https://www.christs.cam.ac.uk/college/people/fellows/dr-puru-gupta/
 
     socialIcons:
         - name: Linkedin
           url: https://www.linkedin.com/in/puru-gupta-b873008a/
         - name: Email
-          url: mailto:puru.gupta.1@warwick.ac.uk
+          url: mailto:pg603@cam.ac.uk
         - name: CV
           url: Puru-CV.pdf
         - name: Google Scholar
