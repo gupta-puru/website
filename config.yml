@@ -18,11 +18,11 @@ menu:
           url: teaching/
           weight: 3
         - name: Christ's, Cambridge
-          url: https://www.christs.cam.ac.uk/college/people/fellows/dr-puru-gupta
+          url: https://www.christs.cam.ac.uk/college/people/fellows/dr-puru-gupta/
           weight: 6
 
 params:
-    description: "I am a PhD candidate in Economics, at the University of Warwick, affiliated with the Stochastic Finance research group."
+    description: "I am a postdoctoral fellow in Economics, at Christ's College, University of Cambridge."
     author: Puru Gupta
     #googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -48,7 +48,7 @@ params:
     profileMode:
           enabled: true
           title: Puru Gupta
-          subtitle: "I am a postdoctoral fellow in Economics at Christ's College, University of Cambridge, where I concurrently serve as college lecturer in Macroeconomics. My current research focuses on the role of investor demand in the pricing of financial instruments, and the influence of martingale measures on inflation dynamics under different monetary policy regimes.
+          subtitle: "I am a postdoctoral fellow in Economics at Christ's College, University of Cambridge, where I concurrently serve as college lecturer in Macroeconomics. I graduated with a PhD in Economics from the Department of Economics, University of Warwick, in June 2025. My current research focuses on the role of investor demand in the pricing of financial instruments, and the influence of martingale measures on inflation dynamics under different monetary policy regimes."
           imageUrl: "Puru.jpeg"
           imageWidth: 180    
           imageHeight: 210
